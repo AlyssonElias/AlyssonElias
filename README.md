@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Alysson Elias. Sou profissional de TI, atuando nas áreas de administração de servidores, cibersegurança e segurança da informação.
+- 👋 Olá, meu nome é Alysson Elias. Sou profissional de TI, atuando na área de banco de dados
 - 👀 Estou interessado em compartilhar conhecimento e aprender mais sobre o Git.
 - 🌱 Meu LinkedIn é https://www.linkedin.com/in/alysson-elias/
 - 💞️ Meu Twitter é @alyssonae
